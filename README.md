@@ -12,7 +12,7 @@ This repo contains my solutions for the AoC problems. My aim is for the code to 
 
 This tracker records the number of solutions (for **parts** or **stars**) uploaded to this repo.
 
-- 2015: 0/50 :star:
+- 2015: 2/50 :star:
 - 2016: 0/50 :star:
 - 2017: 0/50 :star:
 - 2018: 0/50 :star:
@@ -22,7 +22,7 @@ This tracker records the number of solutions (for **parts** or **stars**) upload
 - 2022: 0/50 :star:
 - 2023: 0/50 :star:
 - 2024: 28/50 :star:
-- **Total: 28/500** :star:
+- **Total: 30/500** :star:
 
 # Usage
 
