@@ -1,16 +1,13 @@
-def get_data():
-	with open('input.txt') as f:
-		data = f.readlines()
-	
+def get_data() -> tuple[list[int], tuple[list[int]]]:
 	left_lst, right_lst = [], []
-	for line in data:
-		a, b = line.strip().split("   ")
-		left_lst.append(int(a))
-		right_lst.append(int(b))
-
+	with open('input.txt') as f:
+		for line in f:
+			a, b = line.strip().split("   ")
+			left_lst.append(int(a))
+			right_lst.append(int(b))
 	return left_lst, right_lst
 
-def part_1():
+def part_1() -> None:
 	left_lst, right_lst = get_data()
 	left_lst.sort()
 	right_lst.sort()
@@ -20,7 +17,7 @@ def part_1():
 	
 	print(f"The answer for part 1 is {answer}.")
 
-def part_2():
+def part_2() -> None:
 	left_lst, right_lst = get_data()
 	counts = {}
 	for r in right_lst:
