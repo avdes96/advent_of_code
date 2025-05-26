@@ -26,12 +26,14 @@ This tracker records the number of solutions (for **parts** or **stars**) upload
 
 # Usage
 
-For year `YYYY` and day `DD`, save the problem input in a file called `input.txt` in the directory `YYYY/day_DD`. \
+For year `20YY` and day `DD`, save the problem input in a file in the directory `20YY/day_DD`. \
 Then from the root directory run:
 
 ```bash
-python 20YY/day_DD/solution.py
+python 20YY/day_DD/solution.py <your-input-file>
 ```
+
+replacing `<your-input-file>` with your actual input file path.
 
 # Acknowledgements
 
