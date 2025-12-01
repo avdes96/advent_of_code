@@ -1,8 +1,8 @@
 # What is Advent of Code?
 
-Advent of Code (AoC) is an advent calendar style coding challenge held in December. Each day from the 1<sup>st</sup> to the 25<sup>th</sup> contains a problem that can be solved by writing code. Each problem contains two parts; part 2 is unlocked after part 1 is complete. Solving each part nets one star; the aim is to collect all 50 stars in a given year. The problems typically get harder each day.
+Advent of Code (AoC) is an advent calendar style coding challenge held in December. Each day contains a problem that can be solved by writing code. Each problem contains two parts; part 2 is unlocked after part 1 is complete. Solving each part nets one star. The problems typically get harder each day.
 
-AoC has been running since 2015, and so recently completed its 10<sup>th</sup> year. There are currently 500 total stars to collect.
+From 2015 to 2024, problems ran from the 1<sup>st</sup> to the 25<sup>th</sup>; in 2025 problems are running from the 1<sup>st</sup> to the 12<sup>th</sup>. There are currently 524 total stars to collect.
 
 # About this repo
 
@@ -22,7 +22,8 @@ This tracker records the number of solutions (for **parts** or **stars**) upload
 - 2022: 0/50 :star:
 - 2023: 0/50 :star:
 - 2024: 40/50 :star:
-- **Total: 80/500** :star:
+- 2025: 2/50 :star:
+- **Total: 82/524** :star:
 
 # Usage
 
