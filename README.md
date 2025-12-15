@@ -22,8 +22,8 @@ This tracker records the number of solutions (for **parts** or **stars**) upload
 - 2022: 0/50 :star:
 - 2023: 0/50 :star:
 - 2024: 40/50 :star:
-- 2025: 16/24 :star:
-- **Total: 96/524** :star:
+- 2025: 18/24 :star:
+- **Total: 98/524** :star:
 
 # Usage
 
