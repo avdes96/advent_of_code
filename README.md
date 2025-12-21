@@ -27,11 +27,10 @@ This tracker records the number of solutions (for **parts** or **stars**) upload
 
 # Usage
 
-For year `20YY` and day `DD`, save the problem input in a file in the directory `20YY/day_DD`. \
-Then from the root directory run:
+For year `20YY` and day `DD`, from the repo root run:
 
 ```bash
-python 20YY/day_DD/solution.py <your-input-file>
+python3 20YY/solution_day_DD.py <your-input-file>
 ```
 
 replacing `<your-input-file>` with your actual input file path.
