@@ -14,7 +14,7 @@ This tracker records the number of solutions (for **parts** or **stars**) upload
 
 - 2015: 32/50 :star:
 - 2016: 10/50 :star:
-- 2017: 6/50 :star:
+- 2017: 8/50 :star:
 - 2018: 2/50 :star:
 - 2019: 4/50 :star:
 - 2020: 6/50 :star:
@@ -23,7 +23,7 @@ This tracker records the number of solutions (for **parts** or **stars**) upload
 - 2023: 0/50 :star:
 - 2024: 40/50 :star:
 - 2025: 20/24 :star:
-- **Total: 134/524** :star:
+- **Total: 136/524** :star:
 
 # Usage
 
